@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x5\0\0\0tsid=s%3AptSQPo6TNjHDM2EBn3JpbKk9.HPGQ1ot6LMXElgAM%2FL39qbt10RJPuM%2Bbfe1yZh7fSSA; HttpOnly; domain=localhost; path=/\0\0\0G_gat=1; expires=Fri, 20-Jan-2017 13:15:58 GMT; domain=localhost; path=/\0\0\0`_ga=GA1.1.1222059909.1484565083; expires=Sun, 20-Jan-2019 13:08:34 GMT; domain=localhost; path=/\0\0\0MXSRF-TOKEN=26e5ab95f0G3raTPewIMlA7HNTfjZrSun918E%3D; domain=localhost; path=/\0\0\0Psid+=%7B%22expired%22%3Atrue%2C%22expires%22%3Anull%7D; domain=localhost; path=/)"
